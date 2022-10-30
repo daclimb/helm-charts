@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  daclimb-app:
+  - apiVersion: v2
+    created: "2022-10-30T08:09:32.052633611Z"
+    description: A Helm chart for Kubernetes
+    digest: 0dc453328227e9f0e39497a3683a1af58ce55a9ab4d32e1cab02d5ae65dd0166
+    name: daclimb-app
+    type: application
+    urls:
+    - https://github.com/daclimb/helm-charts/releases/download/daclimb-app-0.1.1/daclimb-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-10-30T08:09:32.052648111Z"
